@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407820800900",
+    "firebase_url": "https://chabi-ca490.firebaseio.com",
+    "project_id": "chabi-ca490",
+    "storage_bucket": "chabi-ca490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407820800900:android:ebcea698880d8f7d",
+        "android_client_info": {
+          "package_name": "com.example.likhit.chabi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407820800900-m8gdbktktj8bcktj1l4dcvst8bf6srn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.likhit.chabi",
+            "certificate_hash": "3e9c3bdd45c53db6c18a38c652e43780e54258c3"
+          }
+        },
+        {
+          "client_id": "407820800900-6thf5vlqg9umv1e4m0qsqlshnr1673kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxCGdKE3XteFMbhB2zuVj__otvfy5U0Lk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407820800900-6thf5vlqg9umv1e4m0qsqlshnr1673kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
